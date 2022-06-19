@@ -1,17 +1,14 @@
 .header-top, .nav3, #footer{
     background-color: rgb(230, 119, 187);
-   
+  }
 
-}
-.fab1{
-    margin-left : 150px;
-}
-#navBar2{
-    font-size: small;
-}
 .navbar-brand{
     margin: 1px;
 }
 html{
     font-size: 12px;
+}
+.nav-link:hover{
+    text-decoration: underline;
+    font-weight: bold;
 }
