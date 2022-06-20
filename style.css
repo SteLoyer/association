@@ -5,9 +5,11 @@
 .navbar-brand{
     margin: 1px;
 }
+
 html{
     font-size: 12px;
 }
+
 .nav-link:hover{
     text-decoration: underline;
     font-weight: bold;
